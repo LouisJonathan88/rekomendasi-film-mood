@@ -18,6 +18,7 @@ frontend/dist/
 
 # Environment Variables
 .env
+backend/apikey.txt
 
 # Editor directories and files
 .vscode/
